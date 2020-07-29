@@ -1,0 +1,6 @@
+yahoo.com
+*.yahoo.com
+cnn.com
+*.cnn.com
+microsoft.com
+*.microsoft.com
