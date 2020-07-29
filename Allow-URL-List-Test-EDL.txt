@@ -1,0 +1,6 @@
+facebook.com
+*.facebook.com
+youtube.com
+*.youtube.com
+gmail.com
+*.gmail.com
