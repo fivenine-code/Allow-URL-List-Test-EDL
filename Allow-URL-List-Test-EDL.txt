@@ -8,4 +8,6 @@ ipchicken.com
 *.ipchicken.com
 cnn.com
 *.cnn.com
+ping.eu
+*.ping.eu
 pangtestingkosaURLfiltering
