@@ -4,4 +4,8 @@ youtube.com
 *.youtube.com
 gmail.com
 *.gmail.com
+ipchicken.com
+*.ipchicken.com
+cnn.com
+*.cnn.com
 pangtestingkosaURLfiltering
