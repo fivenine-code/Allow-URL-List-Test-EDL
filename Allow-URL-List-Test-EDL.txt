@@ -164,7 +164,6 @@ personanutrition.com
 petsbest.com
 pingidentity.com
 pingone.com
-pingsso.taskus.com
 premiumseatsusa.com
 priceline.com
 prioritypass.com
@@ -176,18 +175,12 @@ sendgrid.net
 simplisafe.com
 survey.energage.com
 surveymonkey.com
-taskus.com
-taskus.docebosaas.com
-taskus.prv
-taskus.teleopticloud.com
-taskusemployeestore.shopepromos.com
 ticketsatwork.com
 tripbeat.com
 trustedsource.org
 trustedsourceserver_imqa01
 twilio.com
 twiliocdn.com
-us.timewarp.taskus.com
 use.typekit.net
 vacationweddings.com
 who.int
@@ -197,6 +190,3 @@ zoom.us
 *.mcafee.com
 *.mcafee-cloud.com
 *.nai.com
-ah.taskus.com
-ah1.taskus.com
-ah2.taskus.com
